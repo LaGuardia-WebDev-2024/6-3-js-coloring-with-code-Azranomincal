@@ -13,15 +13,22 @@ void draw(){
   //💡⬇️⬇️⬇️💡 Your Code For This Unit Goes Here
   
   // The ground
+  fill(96, 139, 193);
   rect(0, 300, 400, 100);  
 
   // The sun
+  fill(105, 117, 101)
   ellipse(80, 64, 100, 100);  
 
   // The snowman
+  fill(236, 235, 222);
   ellipse(200, 300, 150, 150);
   ellipse(200, 200, 100, 100);
   ellipse(200, 120, 75, 75);
+   line(163,171,87,90)
+  line(245,171,275,246)
+  ellipse()
+  
   
 
 }
